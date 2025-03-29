@@ -1,1 +1,1 @@
-Repositorio con el código de los ejemplos y proyectos del curso "Programación en Java: Fundamentos y Objetos"
+Repository containing code for examples and projects from the "Java Programming: Fundamentals and Objects" course.
